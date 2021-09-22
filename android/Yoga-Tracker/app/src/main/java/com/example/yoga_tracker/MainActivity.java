@@ -45,9 +45,10 @@ public class MainActivity extends AppCompatActivity {
         btnget.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, StopWatchActivity.class);
+//                Intent intent = new Intent(MainActivity.this, StopWatchActivity.class);
 //                Intent intent = new Intent(MainActivity.this, ClassifyYogaSet1Activity.class);
 //                Intent intent = new Intent(MainActivity.this, ClassifyYogaSet2Activity.class);
+                Intent intent = new Intent(MainActivity.this, HomePageActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                 startActivity(intent);
             }

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Yoga-Tracker</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="already_registered">Already Registered? Sign In</string>
+    <string name="signin">Sign In</string>
+    <string name="new_user">Don\'t Have an Account? Sign Up</string>
+    <string name="profile">My Profile</string>
+    <string name="signout">Sign Out</string>
 </resources>

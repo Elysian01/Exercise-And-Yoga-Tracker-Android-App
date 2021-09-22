@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/drawable/bgbtngreen.xml" value="0.24947916666666667" />
+        <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/drawable/ic_linked_camera_black_24dp.xml" value="0.2703125" />
         <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_classify_yoga.xml" value="0.2318840579710145" />
+        <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_home_page.xml" value="0.20652173913043478" />
         <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_sign_in.xml" value="0.24682971014492755" />
+        <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_signup.xml" value="0.24682971014492755" />
+        <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_splash.xml" value="0.20652173913043478" />
         <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/layout/activity_stop_watch.xml" value="0.11614583333333334" />
+        <entry key="..\:/IT/Projects/Exercise-And-Yoga-Tracker-Android-App/android/Yoga-Tracker/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
