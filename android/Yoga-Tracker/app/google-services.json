@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587893501609",
+    "project_id": "yoga-tracker-a9983",
+    "storage_bucket": "yoga-tracker-a9983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587893501609:android:932392e5a7b44eb702c3b8",
+        "android_client_info": {
+          "package_name": "com.example.yoga_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587893501609-j674euc1brjlphhr7in8h0jbhd2nkv8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLbs95b4pKRXcLvMpnFvO7hDXtsJrN6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587893501609-j674euc1brjlphhr7in8h0jbhd2nkv8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

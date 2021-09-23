@@ -23,12 +23,12 @@ public class HomePageActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_home_page);
 
         firebaseAuth=FirebaseAuth.getInstance();
         toolbar = findViewById(R.id.main_toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Yoga-Tracker");
+//        getSupportActionBar().setTitle("Yoga-Tracker");
     }
 
     @Override
