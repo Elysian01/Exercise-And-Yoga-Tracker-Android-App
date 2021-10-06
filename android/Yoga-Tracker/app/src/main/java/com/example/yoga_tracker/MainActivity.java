@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 //                Intent intent = new Intent(MainActivity.this, StopWatchActivity.class);
 //                Intent intent = new Intent(MainActivity.this, ClassifyYogaSet1Activity.class);
 //                Intent intent = new Intent(MainActivity.this, ClassifyYogaSet2Activity.class);
-                Intent intent = new Intent(MainActivity.this, HomePageActivity.class);
+                Intent intent = new Intent(MainActivity.this, SignupActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                 startActivity(intent);
             }
