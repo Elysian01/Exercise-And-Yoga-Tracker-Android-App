@@ -59,7 +59,7 @@ public class HomePageActivity extends AppCompatActivity {
         start_2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent( HomePageActivity.this, ClassifyYogaSet2Activity.class));
+                startActivity(new Intent( HomePageActivity  .this, ClassifyYogaSet2Activity.class));
             }
         });
 
